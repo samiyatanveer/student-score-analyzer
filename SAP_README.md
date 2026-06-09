@@ -43,7 +43,7 @@ student-score-analyzer/
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/YOUR_USERNAME/student-score-analyzer.git
+git clone https://github.com/samiyatanveer/student-score-analyzer.git
 cd student-score-analyzer
 ```
 
@@ -123,7 +123,7 @@ pivot = pd.pivot_table(df, values="Marks", index="City", columns="Subject", aggf
 
 ## Author
 
-**[Your Name]** — currently learning ML/DL Engineering
+**Samiya Tanveer** — currently learning ML/DL Engineering
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR_PROFILE)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/YOUR_USERNAME)
