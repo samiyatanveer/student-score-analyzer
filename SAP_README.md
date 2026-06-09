@@ -9,8 +9,8 @@ Built as a hands-on practice project to solidify core data science skills before
 ## What this project does
 
 - Generates a realistic student dataset (200 students, intentional missing values & noise)
-- Cleans and preprocesses the data — handles nulls, duplicates, type conversions
-- Engineers new features — grade classification, pass/fail labels
+- Cleans and preprocesses the data, handles nulls, duplicates, type conversions
+- Engineers new features, grade classification, pass/fail labels
 - Performs full Exploratory Data Analysis (EDA)
 - Uses NumPy for array operations, normalization, and statistical analysis
 - Visualizes key insights with Matplotlib
@@ -57,7 +57,7 @@ pip install pandas numpy matplotlib
 python student_project.py
 ```
 
-The script auto-generates `students.csv` on first run — no need to download any data.
+The script auto-generates `students.csv` on first run, no need to download any data.
 
 ---
 
@@ -115,15 +115,15 @@ pivot = pd.pivot_table(df, values="Marks", index="City", columns="Subject", aggf
 
 ## What I'm working on next
 
-- [ ] Scikit-learn — train a classification model to predict Pass/Fail
+- [ ] Scikit-learn: train a classification model to predict Pass/Fail
 - [ ] Add Seaborn visualizations (heatmap, pairplot)
-- [ ] PyTorch — build a neural network on this dataset
+- [ ] PyTorch: build a neural network on this dataset
 
 ---
 
 ## Author
 
-**Samiya Tanveer** — currently learning ML/DL Engineering
+**Samiya Tanveer** | currently learning ML/DL Engineering
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/samiya-tanveer-820ba9363/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/samiyatanveer)
